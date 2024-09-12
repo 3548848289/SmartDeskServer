@@ -1344,4 +1344,10 @@ CMakeFiles/BoostAsioServer.dir/src/client_handler.cpp.o: \
  /usr/include/boost/algorithm/string/detail/formatter.hpp \
  /usr/include/boost/algorithm/string/erase.hpp /usr/include/c++/11/thread \
  /usr/include/c++/11/bits/this_thread_sleep.h \
+ /usr/local/include/json/json.h /usr/local/include/json/config.h \
+ /usr/local/include/json/allocator.h /usr/local/include/json/version.h \
+ /usr/local/include/json/json_features.h \
+ /usr/local/include/json/forwards.h /usr/local/include/json/reader.h \
+ /usr/local/include/json/value.h /usr/include/c++/11/stack \
+ /usr/include/c++/11/bits/stl_stack.h /usr/local/include/json/writer.h \
  /home/ubuntu/windows/Internet/Mytrain/mytxt2/include/MessageHandler.h

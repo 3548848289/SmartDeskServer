@@ -141,6 +141,7 @@ BoostAsioServer: CMakeFiles/BoostAsioServer.dir/src/client_handler.cpp.o
 BoostAsioServer: CMakeFiles/BoostAsioServer.dir/src/MessageHandler.cpp.o
 BoostAsioServer: CMakeFiles/BoostAsioServer.dir/build.make
 BoostAsioServer: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0
+BoostAsioServer: /usr/local/lib/libjsoncpp.so.1.9.5
 BoostAsioServer: CMakeFiles/BoostAsioServer.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ubuntu/windows/Internet/Mytrain/mytxt2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable BoostAsioServer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BoostAsioServer.dir/link.txt --verbose=$(VERBOSE)

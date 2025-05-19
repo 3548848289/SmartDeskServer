@@ -1,3 +1,0 @@
-/home/ubuntu/windows/Internet/Mytrain/smartdesk_sharedfile/build/CMakeFiles/BoostAsioServer.dir
-/home/ubuntu/windows/Internet/Mytrain/smartdesk_sharedfile/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/windows/Internet/Mytrain/smartdesk_sharedfile/build/CMakeFiles/rebuild_cache.dir
